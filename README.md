@@ -3,8 +3,12 @@
 ## Description
 This website provides information to a marketing agency. The codebase follows accessibility standards which allows for site optimization for search engines.
 
-## Installation
-N/A
+## URL and Screenshots
+https://mckayfackrell.github.io/module-01/
+
+<img width="1466" alt="Screen Shot 2022-10-13 at 17 06 53" src="https://user-images.githubusercontent.com/110206514/195726620-4a0e8a77-a53b-4057-9d8d-10282248b40e.png">
+<img width="1466" alt="Screen Shot 2022-10-13 at 17 07 00" src="https://user-images.githubusercontent.com/110206514/195726631-1ff30330-1d8f-4c64-8afc-18243e67dfac.png">
+
 
 ## Usage
 This website provides information to the marketing agency: Horiseon. When the source code of this website is viewed you'll be able to find semantic HTML elements. When you view the structures of the HTML elements you can find that the elements follow a logical structure. The icon and image elements have also been updated so that you can find accessible alt attributes. The heading attributes fall in sequential order, as does the title element.
